@@ -32,6 +32,6 @@ The project includes:
 
 
 
-## 🧠 Skills Demonstrated
+##  Skills Demonstrated
 
 Data Analysis • Business Intelligence • Power BI • DAX • Data Visualization • KPI Development • Exploratory Analysis
